@@ -1,6 +1,6 @@
 # Pagefind
 
-[![Actions Status](https://github.com/quexpl/pagefind/workflows/CI/badge.svg)](https://github.com/runhyve/canary/actions?query=workflow%3ACI)
+[![Actions Status](https://github.com/quexpl/pagefind/workflows/CI/badge.svg)](https://github.com/quexpl/pagefind/actions?query=workflow%3ACI)
 [![Hex pm](https://img.shields.io/hexpm/v/pagefind.svg?style=flat)](https://hex.pm/packages/pagefind)
 [![Hexdocs badge](https://img.shields.io/badge/docs-hexdocs-purple)](https://hexdocs.pm/pagefind)
 
